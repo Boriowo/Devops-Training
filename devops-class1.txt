@@ -1,1 +1,2 @@
 This is our first devops training on github. here on this call, we are making changes through the remote repository in the staging environment
+{Thsi contains the recent changes that has been made in the new branch that we are working on}
